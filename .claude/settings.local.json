@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l /Users/abhishek/Desktop/projects/dwaar/lib/screens/app/tabs/*.dart /Users/abhishek/Desktop/projects/dwaar/lib/screens/app/create/*.dart)",
+      "Bash(wc -l /Users/abhishek/Desktop/projects/dwaar/lib/screens/app/details/*.dart)",
+      "Bash(flutter analyze *)"
+    ]
+  }
+}
